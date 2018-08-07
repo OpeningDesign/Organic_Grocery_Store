@@ -1,0 +1,2 @@
+secretfile filter=git-crypt diff=git-crypt
+_CLOSED_Organic_Grocery_Store/* filter=git-crypt diff=git-crypt
