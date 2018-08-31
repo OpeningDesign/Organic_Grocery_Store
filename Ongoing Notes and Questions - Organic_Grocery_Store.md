@@ -7,12 +7,13 @@
 			- Explore relocating wine/beer near eating area (although there is currently not a license for consumption on site)
 	- Introduce an integral deli case at the counter
 	- More display space in/around checkout counter
-- Preserve the ability to sit outside. 
+- Preserve (and enhance) the ability to sit outside. 
 	- explore areas for informal entertainment. 
 - Explore relocating the kitchen near the checkout counter and eating area.
 	- Explore the potential of including a wood-fired stove as the focal point to the store/restaurant. 
 - Expanded storage and the delivery area
 	- located potential where the shipping containers are currently located.
+		- Could also explore locating the new 'storage' [here](https://www.dropbox.com/s/nhulq1tfafx44a2/2018-08-31_14-31-29_RevitAutodesk_Revit_2018.2_-_%5BFloor_Plan_Site_plan_-_ORevit.png?dl=0).
 - General display area
 	- Remove ceiling tiles, and entertain a barn-like faux purlin/rafter structure
 	- Introduce new drop down lights to improve maintenance access, as well to create more intimate areas.
@@ -20,3 +21,6 @@
 	- Explore operable windows
 - Schedule
 	- Looking to start construction during seasonal slow time--before Thanksgiving, potentially 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MDU2NzE0MTMsLTgwMDIwMTE3M119
+-->
