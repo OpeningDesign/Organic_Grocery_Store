@@ -21,6 +21,11 @@
 	- Explore operable windows
 - Schedule
 	- Looking to start construction during seasonal slow time--before Thanksgiving, potentially 
+
+- Live Program: https://docs.google.com/document/d/1Rk0w0DcT3tOLZgRcoC04JbqXiDEn0uf8xNumIXqMnMU/edit
+- http://sketch.openingdesign.com/d/F80DOSDxh2
+- 
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2MDU2NzE0MTMsLTgwMDIwMTE3M119
 -->
