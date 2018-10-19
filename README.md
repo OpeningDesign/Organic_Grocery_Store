@@ -24,7 +24,7 @@ Per usual, unless otherwise noted, all content associated with [OpeningDesign](h
 
 ---
 
-
+![](https://raw.githubusercontent.com/OpeningDesign/Organic_Grocery_Store/eb9c8bad22f32cd67b29513afe59d9788bc3d811/Transfer/20181018%20-%20to%20owner%20-%202%20design%20proposals/Enscape_2018-10-18-17-35-38.png)
 
 
 
