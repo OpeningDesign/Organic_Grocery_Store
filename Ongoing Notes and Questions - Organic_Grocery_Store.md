@@ -1,3 +1,7 @@
+
+
+
+
 - Checkout Counter
 	- The customer 'flow' around the counter is currently pretty congested--needs to be improved
 	- The use of the 2nd register is spatially too tight
@@ -27,5 +31,6 @@
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDU2NzE0MTMsLTgwMDIwMTE3M119
+eyJoaXN0b3J5IjpbMjAwNzI3NDU3NywtMTYwNTY3MTQxMywtOD
+AwMjAxMTczXX0=
 -->
